@@ -15,4 +15,4 @@ then run all the cells.
 ## INPUT by the user 
 <img src="/input-1.jpg" alt="output"><br>
 # Desired OUTPUT
-<img src="/Output2.jpg" alt="output">
+<img src="/Output-2.jpg" alt="output">
